@@ -1,7 +1,6 @@
 aiohttp==3.9.5
 aiosignal==1.3.1
 altair==5.1.2
-anaconda-anon-usage @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b9r8fbjsvb/croot/anaconda-anon-usage_1710965086703/work
 anaconda-client==1.11.2
 anaconda-cloud-auth @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_31rndoixcv/croot/anaconda-cloud-auth_1697462718027/work
 anaconda-navigator @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c7xorfi64j/croot/anaconda-navigator_1699975630620/work
