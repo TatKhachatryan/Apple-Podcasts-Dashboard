@@ -1,6 +1,6 @@
 # Apple-Podcasts-Dashboard
 
-This project provides an interactive dashboard built with Plotly Dash for exploring Apple Podcasts data. The dashboard offers a comprehensive overview of podcasts across various categories.  
+This project is a web-based dashboard application built with Plotly Dash. The dashboard provides insightful visualizations and data about Apple Podcasts, including categories, top podcasts, and detailed podcast listings. The application offers interactive features and data download options to enhance user experience.
 
 ## **Key Features:**
 * **Podcast Category Distribution:** Visualizes the number of podcasts in each category using a bar chart.
