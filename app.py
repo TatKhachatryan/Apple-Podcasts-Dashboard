@@ -41,7 +41,7 @@ categories = df['Main Category'].value_counts()
 figure1 = px.bar(categories, x=categories.values,
              y=categories.index, color=categories.index, 
              color_discrete_sequence=colors)
-figure1.update_layout(title='Number of Podcasts by Categories', height=500, title_x=0.5, xaxis_title="Count")
+figure1.update_layout(title='Number of Podcasts by Categories', height=500,showlegend=False, title_x=0.5, xaxis_title="Count")
 
 external_stylesheets = [dbc.themes.JOURNAL]
 
